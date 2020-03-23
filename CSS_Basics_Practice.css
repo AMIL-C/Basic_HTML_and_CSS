@@ -1,0 +1,23 @@
+table {
+	background-color: grey;
+	font-color: red;
+	border: 1px solid black;
+}
+
+td:hover {
+	background-color: orange;
+	color: blue;
+}
+
+ol {
+	list-style-type: upper-roman;
+}
+
+ul {
+	list-style-type: square;
+}
+
+ol, ul {
+	text-shadow: 2px 2px #451306;
+}
+
